@@ -1,0 +1,33 @@
+{
+  "name": "dialogflow-pupeteer-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creativesites/Dialogflow-Pupeteer-Tester.git"
+  },
+  "author": "Winston Zulu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/creativesites/Dialogflow-Pupeteer-Tester/issues"
+  },
+  "homepage": "https://github.com/creativesites/Dialogflow-Pupeteer-Tester#readme",
+  "dependencies": {
+    "@faya/drowsy": "^1.0.0",
+    "cheerio": "^1.0.0-rc.11",
+    "crypto": "^1.0.1",
+    "dayjs": "^1.11.3",
+    "fs": "^0.0.1-security",
+    "libxmljs": "^0.19.10",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "puppeteer": "^14.4.1",
+    "puppeteer-table-scraper": "^1.0.4",
+    "sequence-js": "^0.0.3",
+    "util": "^0.12.4"
+  }
+}
